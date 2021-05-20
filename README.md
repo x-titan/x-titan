@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning: ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-    Site: https://titanium-studio.github.io
-    WhatsApp: 87788405404
+- Site: https://titanium-studio.github.io
+- WhatsApp: 87788405404
