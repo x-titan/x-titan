@@ -8,7 +8,7 @@
 
 - Sites:
     - [titanium-studio][main] 
-    - [web/x-titan][xweb] 
+    - [Firebase/x-titan][xweb] 
     - [Heroku/x-titan][hero] 
 
   
