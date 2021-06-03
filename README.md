@@ -1,11 +1,18 @@
 - 👋 Hi, I’m X-titan. My name is Aset Telmanov
 - 👀 I’m interested in: Mobile App
-- 🌱 I’m currently learning: ReactJS
+- 🌱 I’m currently learning:
+     - ReactJS
+     - Java
 - 📫 How to reach me: 8(778)840-54-04
-- Main Site: https://titanium-studio.github.io
-
-- My Hosts: https://x-titan.github.io
-            https://x-titan.web.app
-            https://x-titan.herokuapp.com
-
 - WhatsApp: 8(778)840-54-04
+
+- Sites:
+    - [titanium-studio][main] 
+    - [web/x-titan][xweb] 
+    - [Heroku/x-titan][hero] 
+
+  
+
+[main]: <https://titanium-studio.github.io>
+[xweb]: <https://x-titan.web.app>
+[hero]: <https://x-titan.herokuapp.com>
