@@ -1,8 +1,8 @@
 - 👋 Hi, I’m X-titan. My name is Aset Telmanov
 - 👀 I’m interested in: Mobile App
 - 🌱 I’m currently learning:
-     - ReactJS
-     - Java
+    - ReactJS
+    - Java
 - 📫 How to reach me: 8(778)840-54-04
 - WhatsApp: 8(778)840-54-04
 
