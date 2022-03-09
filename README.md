@@ -7,11 +7,13 @@
 - WhatsApp: [8(778)840-54-04][wame]
 
 - Sites:
-    - [titanium-studio][main]
+    - [github/titanium-studio][main]
+    - [github/x-titan][xttn]
     - [Firebase/x-titan][xweb]
     - [Heroku/x-titan][hero]
 
 [main]: <https://titanium-studio.github.io>
+[xttn]: <https://x-titan.github.io>
 [xweb]: <https://x-titan.web.app>
 [hero]: <https://x-titan.herokuapp.com>
 [wame]: <https://wa.me/+77788405404>
