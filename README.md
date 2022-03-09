@@ -10,7 +10,7 @@
     - [titanium-studio][main]
     - [Firebase/x-titan][xweb]
     - [Heroku/x-titan][hero]
-    - [Call to me][call]
+    - [url=tel:+77788405404]Call to me[/url]
 
   
 
