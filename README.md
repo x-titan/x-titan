@@ -17,4 +17,4 @@
 [main]: <https://titanium-studio.github.io>
 [xweb]: <https://x-titan.web.app>
 [hero]: <https://x-titan.herokuapp.com>
-[call]: <call:87788405404>
+[call]: <call://87788405404>
