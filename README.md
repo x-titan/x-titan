@@ -10,7 +10,6 @@
     - [titanium-studio][main]
     - [Firebase/x-titan][xweb]
     - [Heroku/x-titan][hero]
-    - <tel:87788405404>
 
 [main]: <https://titanium-studio.github.io>
 [xweb]: <https://x-titan.web.app>
