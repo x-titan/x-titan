@@ -4,15 +4,15 @@
     - ReactJS
     - Java
 - 📫 How to reach me: 8(778)840-54-04
-- WhatsApp: 8(778)840-54-04
+- WhatsApp: [8(778)840-54-04][wame]
 
 - Sites:
     - [titanium-studio][main]
     - [Firebase/x-titan][xweb]
     - [Heroku/x-titan][hero]
-    - [Call to me][call]
+    - <tel:87788405404>
 
 [main]: <https://titanium-studio.github.io>
 [xweb]: <https://x-titan.web.app>
 [hero]: <https://x-titan.herokuapp.com>
-[call]: <tel:+7778405404>
+[wame]: <https://wa.me/+77788405404>
