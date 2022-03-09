@@ -10,11 +10,8 @@
     - [titanium-studio][main]
     - [Firebase/x-titan][xweb]
     - [Heroku/x-titan][hero]
-    - [url=tel:+77788405404]Call to me[/url]
-
-  
+    - <a href="tel:+77788405404">Call tot mew</a>
 
 [main]: <https://titanium-studio.github.io>
 [xweb]: <https://x-titan.web.app>
 [hero]: <https://x-titan.herokuapp.com>
-[call]: <tel:87788405404>
