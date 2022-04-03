@@ -6,7 +6,7 @@
 - 📫 How to reach me: 8(778)840-54-04
 - WhatsApp: [8(778)840-54-04][wame]
 
-[X-Titan, Aset Telmanov's GitHub Stats][https://github-readme-stats.vercel.app/api?username=timarney&show_icons=true&theme=radical&count_private=true]
+![X-Titan, Aset Telmanov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-titan&show_icons=true&theme=radical&count_private=true)
 
 - Sites:
     - [github/titanium-studio][main]
