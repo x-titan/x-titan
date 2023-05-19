@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning:
     - ReactJS
     - Java
+    - Python
 - 📫 How to reach me: 8(778)840-54-04
 - WhatsApp: [8(778)840-54-04][wame]
 
